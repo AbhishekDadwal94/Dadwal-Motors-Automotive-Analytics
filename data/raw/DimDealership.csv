@@ -1,0 +1,11 @@
+DealershipID,DealershipName,Province,Region,SalesCapacityWeight
+D001,Dadwal Motors Oakville,Ontario,GTA West,1.15
+D002,Dadwal Motors Mississauga,Ontario,GTA West,1.2
+D003,Dadwal Motors Toronto,Ontario,GTA Central,1.35
+D004,Dadwal Motors Vaughan,Ontario,GTA North,1.1
+D005,Dadwal Motors Ottawa,Ontario,Eastern Ontario,1.05
+D006,Dadwal Motors London,Ontario,Southwestern Ontario,0.9
+D007,Dadwal Motors Kitchener,Ontario,Waterloo Region,0.95
+D008,Dadwal Motors Calgary,Alberta,Southern Alberta,1.1
+D009,Dadwal Motors Edmonton,Alberta,Northern Alberta,1.0
+D010,Dadwal Motors Vancouver,British Columbia,Lower Mainland,1.2
